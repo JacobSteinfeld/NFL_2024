@@ -17,6 +17,7 @@ This repository contains models, tools, and analyses designed to predict and eva
 ### 3. **`rb_team_stats.ipynb`**
 - Tracks **running back stats** for each team.
 - Analyzes how teams perform **against the run**, providing insights into rushing efficiency and defense.
+- Example visualization: ![RB Graph](RB_vs_D.png)
 
 ### 4. **`wr_model-test-Copy1.ipynb`**
 - Creates a **predictive model for wide receivers (WRs)** and their expected performance each week.
