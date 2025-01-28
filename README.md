@@ -12,7 +12,7 @@ This repository contains models, tools, and analyses designed to predict and eva
 ### 2. **`EPA_d_o.ipynb`**
 - Tracks the **Expected Points Added (EPA)** for each team's **offense** and **defense**.
 - Includes visualizations that graph offensive and defensive EPA against one another for comparative analysis.
-- Example visualization: ![EPA Graph](Users/JSTEINY/Desktop/python_projects/NFL_2024/example_epa_graph.png)
+- Example visualization: ![EPA Graph](total_epa.png)
 
 ### 3. **`rb_team_stats.ipynb`**
 - Tracks **running back stats** for each team.
